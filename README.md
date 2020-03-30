@@ -1,3 +1,5 @@
+# DynamicDI
+
 Example of dynamic depency injection with asp.net core. The tutorial is found at https://edi.wang/post/2018/12/28/dependency-injection-with-multiple-implementations-in-aspnet-core.
 
 ASP.NET Core has dependency injection is built in. So you can mention the interface type in your controller and ASP.NET Core will provide the actual object of the interface at runtime. For this to work you need to write some configuration in the startup class.

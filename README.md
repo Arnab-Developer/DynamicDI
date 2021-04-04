@@ -1,4 +1,4 @@
-# DynamicDI
+# Dynamic dependency injection with ASP.NET Core
 
 Example of dynamic depency injection with asp.net core. The tutorial is found at https://edi.wang/post/2018/12/28/dependency-injection-with-multiple-implementations-in-aspnet-core.
 
